@@ -1,0 +1,40 @@
+body{
+    font-family:fantasy;
+}
+
+.header{
+    background-color:rgb(255, 195, 206);
+    height:80pxz;
+    padding:20px 33px;
+}
+
+.header h1{
+    margin-left:500px;
+}
+
+.header h3{
+    margin-left:460px;
+}
+
+.リスト{
+    background-color:#fffacd;
+}
+
+.contents{
+    height:500px;
+    background-color:rgb(200, 249, 255);
+    border-top:8px solid rgb(200, 249, 255);
+}
+
+img{
+    width: 326px;
+    height:489px;
+    float:left;
+    margin-left:25px;
+}
+
+.footer-content{
+
+    background-color:rgb(219, 219, 219);
+    height:120px;
+}
